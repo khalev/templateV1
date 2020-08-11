@@ -1,0 +1,35 @@
+
+
+.card {
+    background: #fff;
+    min-height: 50px;
+    box-shadow: none;
+    position: relative;
+    margin-bottom: 0px;
+    margin: 0;
+}
+
+.card .header {
+    color: #555;
+    padding: 15px;
+    position: relative;
+    border-bottom: 1px solid rgba(204,204,204,0.35);
+}
+
+.card .bg-Blue2 {
+    background-color: initial;
+    background-color: #28b351;
+}
+
+.card .bg-Blue2 .col-white
+{color:#ffffff !important;
+font-size: 15px;
+}
+
+p{
+    text-align: justify;
+    margin-left: 50px;
+    margin-top: 30px;
+    margin-right: 50px;
+    margin-bottom: 100px;
+}
